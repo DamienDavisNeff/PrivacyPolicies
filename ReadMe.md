@@ -1,4 +1,4 @@
-# Privacy Poliies
+# Privacy Policies
 
 * [Red Subscribe Button](https://github.com/DamienDavisNeff/PrivacyPolicies/blob/main/RedSubscribeButton.md)
 * [YouTube Studio Favicon](https://github.com/DamienDavisNeff/PrivacyPolicies/blob/main/YouTubeStudioFavicon.md)
